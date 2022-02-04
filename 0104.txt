@@ -1,0 +1,9 @@
+^이 표시가
+Start with  라는 의미
+
+
+벤더 프리픽스
+
+
+
+sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash

@@ -1,0 +1,41 @@
+**a 태그 비활성화
+https://kcmschool.com/185
+
+**getAttribute : 요소의 속성 값을 가져올 때
+
+**data-role-video-900
+https://eyears.tistory.com/entry/HTML5-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A0%95%EC%9D%98-%EC%86%8D%EC%84%B1
+
+**trigger
+https://24hours-beginner.tistory.com/42
+
+**offsetWidth / innerWidth 차이점
+
+**addEventListener focusin
+
+**scrollto
+https://enai.tistory.com/33
+https://www.w3.org/TR/cssom-view-1/#extensions-to-the-window-interface
+
+**navigator.userAgent
+유저 에이전트 스트링(User Agent String)은 주로 우리 웹사이트에 접속한 사용자의 환경,
+그러니까 운영체제가 뭔지, 사용하는 브라우저는 뭔지 등의 정보를 담고 있는 문자열입니다.
+https://studiomeal.com/archives/109
+
+
+
+--------01/07
+**Document.documentElement : 
+읽기 전용 속성은 문서의 루트 요소를 나타내는 Element를 반환합니다.
+HTML 문서를 예로 들면 <html> 요소를 반환합니다.
+https://yohanpro.com/posts/css/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%A3%BC%EC%86%8C%EC%B0%BD-%ED%81%AC%EA%B8%B0-%EC%A0%9C%EC%96%B4
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+[].forEach.call
+https://www.inflearn.com/questions/36091
+
+height: var(--vh);
+https://blog.leehov.in/39
+
+Math.round : 입력값을 반올림한 수와 가장 가까운 정수 값을 반환합니다.
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math/round
+
+Math.round() + "e-2"
++(Math.round(num + "e+2") + "e-2");
+Math.round((num + Number.EPSILON) * 100) / 100
+https://www.codegrepper.com/code-examples/javascript/%2B%28Math.round%28num+%2B+%22e%2B2%22%29+%2B+%22e-2%22%29%3B
+https://studyingazae.tistory.com/155
+
+
+Number.prototype.toFixed() : 숫자를 고정 소수점 표기법으로 표기해 반환합니다.
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed
+
+
+
+
+
+
+
+

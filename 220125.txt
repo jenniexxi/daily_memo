@@ -1,0 +1,41 @@
+e+2 10의 제곱수 round
+https://min9nim.vercel.app/2020-10-23-js-number-issue/
+
+getBoundingClientRect
+https://developer.mozilla.org/ko/docs/Web/API/Element/getBoundingClientRect
+https://webisfree.com/2020-09-21/[%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8]-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EC%9D%98-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9C%84%EC%B9%98-%EC%95%8C%EC%95%84%EB%82%B4%EA%B8%B0-getboundingclientrect
+
+parseInt() : 문자열 인자를 파싱하여 특정 진수(수의 진법 체계에서 기준이 되는 값)의 정수를 반환
+
+Window.getComputedStyle() : 인자로 전달받은 요소의 모든 CSS 속성값을 담은 객체를 회신
+
+gsap.to() - onstart, onupdate,,,,
+https://greensock.com/docs/v3/GSAP/gsap.to()
+https://webzz.tistory.com/661
+https://www.biew.co.kr/entry/TweenMax%E3%86%8DGSAP-%ED%8A%B8%EC%9C%88%EB%A7%A5%EC%8A%A4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%8B%AC%ED%99%941GSAP-Callback
+
+getById
+https://greensock.com/docs/v3/Plugins/ScrollTrigger/static.getById()
+
+sacleY
+https://www.biew.co.kr/entry/TweenMax%E3%86%8DGSAP-%ED%8A%B8%EC%9C%88%EB%A7%A5%EC%8A%A4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EA%B8%B0%EC%B4%883GSAP-Controlling-Easing
+
+scrolltrigger
+https://velog.io/@yesslkim94/GSAP-ScrollTrigger
+
+gasp.call() : 콜백
+https://greensock.com/docs/v3/GSAP/Timeline/call()
+
+gsap.set() : 속성을 설정
+https://greensock.com/docs/v3/GSAP/gsap.set
+
+gsap.set() 의 속성 xPercent
+https://codepen.io/lantoine/pen/qwWqLa
+
+gsap.fromto
+https://greensock.com/docs/v3/GSAP/gsap.fromTo()
+https://webzz.tistory.com/690
+
+
+
+

@@ -1,0 +1,23 @@
+<script>
+ window.addEventListener('load', function () {
+                let __in = document.querySelector('.vd-qled-quality .vd-sticky-in');
+                let __end = document.querySelector('.vd-qled-quality .vd-qled-quality-end');
+console.log("before");
+console.log("__in height : " + __in.offsetHeight);
+console.log("__end height : " +  __end.offsetHeight);
+console.log("after")
+__in.style.height = __end.offsetHeight + 'px'
+console.log("__in height : " + __in.offsetHeight);
+console.log("__end height : " + __end.offsetHeight);
+}); 
+</script>
+
+
+div에 style height가 있을때만 height사용가능, offsetHeight는 property이므로 read-only로 사용가능 따라서 hieght를 맞춰주려면 offsetHeight로 받아와서 stlye.height에 넣어주면됨 이때 'px'붙여줘야함
+
+이걸 토대로 종합하면 이둘은 밀접한 관계가 있는데 속생이 다르구나 해서 offsetHeight vs stlye.height로 찾아보니까 나오더라구
+offsetHeight에 값을 넣는것 여긴 read-only니까 property라서
+
+
+
+

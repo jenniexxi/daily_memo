@@ -1,0 +1,8 @@
+foreach 대신 filter … 
+
+foreach 는 IE 버전떄문에,,,
+
+forEach.call
+
+유사배열 객체와 배열의 차이
+

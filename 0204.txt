@@ -1,0 +1,46 @@
+http://localhost:1227/2022-neo-qled/test-local/index-rtl.html
+
+transform-style: preserve-3d;
+currentStyle : computedstyle 이 있지만 ie 에서는 currentStyle(이건 ie만)
+window.getComputedStyle
+
+String.prototype.match() : match() 메서드는 문자열이 정규식과 매치되는 부분을 검색합니다.
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/match
+
+정규식 : 
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+https://webisfree.com/2014-11-28/[%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8]-%EB%8F%99%EC%9D%BC%ED%95%9C-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%97%90%EC%84%9C-%EC%B0%BE%EA%B8%B0-match()-%ED%95%A8%EC%88%98
+
+example)
+var test  = 'love you. love me. love everything!'
+var regExp = /love/gi;
+test2 = test.match(regExp);
+=> ['love', 'love', 'love']
+// test2변수에 배열로 모든 love 텍스트가 저장됨
+=>> gi는 대소문자 구분을 허용하지 않고 모든 패턴을 검색
+
+정규식 안내
+https://zone.ni.com/reference/ko-XX/help/371361R-0129/glang/match_regular_expression/
+\(.*\) : \는 역슬래시 : 괄호 안에서 가장 긴 문자열
+
+Function.prototype.call()
+call() 메소드는 주어진 this 값 및 각각 전달된 인수와 함께 함수를 호출합니다.
+이 함수 구문은 apply()와 거의 동일하지만, call()은 인수 목록을,
+반면에 apply()는 인수 배열 하나를 받는다는 점이 중요한 차이점입니다.
+https://velog.io/@nayeon/Javascript%EC%97%90%EC%84%9C%EC%9D%98-this-%EC%99%80-call-apply-bind-%EB%A9%94%EC%84%9C%EB%93%9C
+
+offsetLeft
+offsetwidth
+https://so4869.tistory.com/26
+
+push  : 현재 배열에 뒤에 하나씩 추가
+
+
+
+
+
+
+
+
+
+
