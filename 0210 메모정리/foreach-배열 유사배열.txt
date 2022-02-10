@@ -1,0 +1,27 @@
+for_each는 2가지 버젼이 있지
+for_each도 인자를 2개받는 버젼이있지
+
+[].forEach.call(__vdDesignItemAllEl, (__el, __i) => { / call은 확실히되고
+ itemList.forEach((item, index) => {
+
+https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2
+
+1. var array = [1, 2, 3, 4]; / 배열
+2. var node = document.querySelector('div'); /  유사배열, NodeList객체
+3. var ele = document.body.children; / 유사배열, HTMLCollection객체
+2,3번은 call만쓸수 잇음
+
+유사배열엔 call만 된다던뎀
+
+저거 반환형이 NodeList자나
+NodeList객체는 foreach 메소드가 있다네
+HTMLCollection객체인데 얜 없고
+
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+https://developer.mozilla.org/ko/docs/Web/API/NodeList/forEach
+nodelist랑 array만 foreach 가능
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set/forEach
+
+Array.prototype.forEach
+NodeList.prototype.forEach
+Set.prototype.forEach

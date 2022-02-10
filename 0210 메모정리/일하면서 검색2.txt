@@ -1,0 +1,17 @@
+[ajax]
+https://blog.makerjun.com/765d05b0-34de-4d2c-9675-34dd710fa396
+https://developer.mozilla.org/ko/docs/Web/Guide/AJAX/Getting_Started
+http://milooy.github.io/TIL/JavaScript/jpub-ajax-json.html#ajax
+https://lily-im.tistory.com/15
+검색어 : javascript json 뿌려주기
+https://990427.tistory.com/37
+https://seraup.dev/102
+https://www.daleseo.com/js-window-fetch/
+
+[node의 값을 문자열로 변경]
+https://basemenks.tistory.com/m/47
+
+
+
+
+

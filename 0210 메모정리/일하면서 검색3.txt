@@ -1,0 +1,61 @@
+[벤더 프리픽스]
+bender frefix
+https://poiemaweb.com/css3-vendor-prefix
+
+bem css 작성방식
+
+[프로미스 객체]
+https://gobae.tistory.com/103?category=940543
+
+[디버깅]
+https://subicura.com/2018/02/14/javascript-debugging.html
+
+height: var(--vh);
+
+[모바일 화면 세로 사이즈 계산]
+https://ibks-platform.tistory.com/370
+https://www.codegrepper.com/code-examples/javascript/%2B%28Math.round%28num+%2B+%22e%2B2%22%29+%2B+%22e-2%22%29%3B
+
+round
+https://hianna.tistory.com/446
+
+currentstyle
+https://runebook.dev/ko/docs/dom/element/currentstyle
+
+특정 앨리먼트에 적용된 스타일값 받아오기
+http://mydeute.com/txp/archives/784
+
+정규식
+https://zone.ni.com/reference/ko-XX/help/371361R-0129/glang/match_regular_expression/
+https://velog.io/@hellocdpa/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%A0%95%EA%B7%9C%EC%8B%9D-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8B%A4-%EC%97%90%EB%9F%AC-%EB%82%AC%EC%A7%80%EB%A7%8C-%ED%95%B4%EA%B2%B0
+
+자바스크립트 속성과 프로퍼티
+https://violetboralee.medium.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%86%8D%EC%84%B1-attribute-%EA%B3%BC-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0-property-d2f9b772addf
+
+도서관 대여 서비스  - 여기서 뭘 도움 받느라 ㅏㅈ음
+https://velog.io/@sue/9-6-%EB%8F%84%EC%84%9C%EA%B4%80-%EB%8C%80%EC%97%AC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+
+call, apply, bind
+https://velog.io/@nayeon/Javascript%EC%97%90%EC%84%9C%EC%9D%98-this-%EC%99%80-call-apply-bind-%EB%A9%94%EC%84%9C%EB%93%9C
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/call
+https://www.zerocho.com/category/JavaScript/post/57433645a48729787807c3fd
+
+
+offsetwidth
+https://so4869.tistory.com/26
+
+
+css 다루기
+https://iborymagic.tistory.com/m/23?category=1004613
+https://helloinyong.tistory.com/284
+https://homzzang.com/b/js-1901
+https://im-designloper.tistory.com/32
+
+
+
+블로거
+https://aosceno.tistory.com/category/CSS%26JS
+
+이중선택자
+https://ofcourse.kr/css-course/%EB%8B%A4%EC%A4%91-%EC%A1%B0%EA%B1%B4-%EC%84%A0%ED%83%9D%EC%9E%90
+
